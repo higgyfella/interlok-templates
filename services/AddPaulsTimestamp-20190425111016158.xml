@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><add-timestamp-metadata-service tmpl-alias="add-timestamp-metadata-service" tmpl-author="Paul" tmpl-class-name="com.adaptris.core.services.metadata.AddTimestampMetadataService" tmpl-created="2019-04-25T11:09:39" tmpl-desc="this is a new service that adds pauls time to the md" tmpl-keywords="service" tmpl-name="AddPaulsTimestamp-20190425111016158" tmpl-target-version="3.8.4B2-RELEASE(2019-04-24)" tmpl-title="add-timestamp-metadata-service AddPaulsTimestamp Template" tmpl-type="service" wizard-step1-desc="Description" wizard-step1-label="Step" wizard-step1-order="1">
+  <unique-id>AddPaulsTimestamp</unique-id>
+  <metadata-key>pauls-time</metadata-key>
+  <date-format-builder>
+    <format>yyyy-MMM-dd'T'HH:mm:ssZ</format>
+  </date-format-builder>
+</add-timestamp-metadata-service>
