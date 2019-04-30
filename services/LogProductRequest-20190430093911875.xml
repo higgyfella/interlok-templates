@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><log-message-service tmpl-alias="log-message-service" tmpl-author="pjh" tmpl-class-name="com.adaptris.core.services.LogMessageService" tmpl-created="2019-04-30T09:38:50" tmpl-desc="pauls aces loggr" tmpl-keywords="service" tmpl-name="LogProductRequest-20190430093911875" tmpl-target-version="3.8.4-RELEASE(2019-04-29)" tmpl-title="log-message-service LogProductRequest Template" tmpl-type="service" wizard-step1-desc="Description" wizard-step1-label="Step" wizard-step1-order="1">
+  <unique-id>LogProductRequest</unique-id>
+  <log-level>DEBUG</log-level>
+  <log-prefix>ACES-</log-prefix>
+</log-message-service>
