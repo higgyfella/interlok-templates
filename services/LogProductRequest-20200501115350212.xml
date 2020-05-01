@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log-message-service tmpl-alias="log-message-service" tmpl-author="Default Admin" tmpl-class-name="com.adaptris.core.services.LogMessageService" tmpl-created="2020-05-01T11:53:26" tmpl-desc="may 2020" tmpl-keywords="service" tmpl-name="LogProductRequest-20200501115350212" tmpl-target-version="3.10.1B2-RELEASE(2020-05-01:08:27:23 BST)" tmpl-title="log-message-service-may20" tmpl-type="service" wizard-step1-desc="Description" wizard-step1-label="Step" wizard-step1-order="1">
+  <unique-id>LogProductRequest</unique-id>
+  <log-level>DEBUG</log-level>
+</log-message-service>
