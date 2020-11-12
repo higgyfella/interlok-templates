@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><add-timestamp-metadata-service tmpl-alias="add-timestamp-metadata-service" tmpl-author="Default Admin" tmpl-class-name="com.adaptris.core.services.metadata.AddTimestampMetadataService" tmpl-created="2020-11-12T09:45:28" tmpl-desc="" tmpl-keywords="service" tmpl-name="AddPaulsTimestamp-20201112094708151" tmpl-target-version="3.11.1B1-RELEASE(2020-11-10:09:08:08 GMT)" tmpl-title="hello-everyone" tmpl-type="service" tmpl-wizard="true" wizard-step1-desc="Description" wizard-step1-label="Step" wizard-step1-order="1">
+  <unique-id>AddPaulsTimestamp</unique-id>
+  <metadata-key wizard-desc="XPath:/add-timestamp-metadata-service/metadata-key" wizard-key="metadataKey" wizard-label="key" wizard-step="step1" wizard-type="string">pauls-time</metadata-key>
+  <date-format-builder>
+    <format>yyyy-MMM-dd'T'HH:mm:ssZ</format>
+  </date-format-builder>
+</add-timestamp-metadata-service>
